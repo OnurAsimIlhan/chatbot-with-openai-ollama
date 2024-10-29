@@ -12,7 +12,7 @@ This project is an enhanced Q&A chatbot built using Streamlit and OpenAI's langu
 
 The application is deployed using Streamlit. You can access it without running the code locally by visiting the following link:
 
-[Streamlit App](https://next-word-prediction-lstm-ztw4a4hu54tnpgn7943pmx.streamlit.app/)
+[Streamlit App](https://chatbot-with-openai-ollama-2fss6ilcas6ysp5xz2tkn4.streamlit.app/)
 
 ## Setup (if you want to run locally)
 
